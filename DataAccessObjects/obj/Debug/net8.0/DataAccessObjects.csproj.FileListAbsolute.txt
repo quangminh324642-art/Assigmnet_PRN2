@@ -1,0 +1,51 @@
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\DataAccessObjects\bin\Debug\net8.0\DataAccessObjects.deps.json
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\DataAccessObjects\bin\Debug\net8.0\DataAccessObjects.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\DataAccessObjects\bin\Debug\net8.0\DataAccessObjects.pdb
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\DataAccessObjects\bin\Debug\net8.0\BusinessObjects.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\DataAccessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.csproj.AssemblyReference.cache
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.AssemblyInfoInputs.cache
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.AssemblyInfo.cs
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.csproj.CoreCompileInputs.cache
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.sourcelink.json
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAcce.79975846.Up2Date
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\refint\DataAccessObjects.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.pdb
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\ref\DataAccessObjects.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\DataAccessObjects\bin\Debug\net8.0\DataAccessObjects.deps.json
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\DataAccessObjects\bin\Debug\net8.0\DataAccessObjects.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\DataAccessObjects\bin\Debug\net8.0\DataAccessObjects.pdb
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\DataAccessObjects\bin\Debug\net8.0\BusinessObjects.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\DataAccessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.csproj.AssemblyReference.cache
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.AssemblyInfoInputs.cache
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.AssemblyInfo.cs
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.csproj.CoreCompileInputs.cache
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.sourcelink.json
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAcce.79975846.Up2Date
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\refint\DataAccessObjects.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.pdb
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\ref\DataAccessObjects.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\DataAccessObjects\bin\Debug\net8.0\DataAccessObjects.runtimeconfig.json
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.genruntimeconfig.cache
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\DataAccessObjects\bin\Debug\net8.0\DataAccessObjects.deps.json
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\DataAccessObjects\bin\Debug\net8.0\DataAccessObjects.runtimeconfig.json
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\DataAccessObjects\bin\Debug\net8.0\DataAccessObjects.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\DataAccessObjects\bin\Debug\net8.0\DataAccessObjects.pdb
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\DataAccessObjects\bin\Debug\net8.0\BusinessObjects.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\DataAccessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.csproj.AssemblyReference.cache
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.AssemblyInfoInputs.cache
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.AssemblyInfo.cs
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.csproj.CoreCompileInputs.cache
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAcce.79975846.Up2Date
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\refint\DataAccessObjects.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.pdb
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.genruntimeconfig.cache
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\ref\DataAccessObjects.dll

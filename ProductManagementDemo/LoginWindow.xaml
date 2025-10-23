@@ -1,0 +1,149 @@
+﻿<Window x:Class="ProductManagementDemo.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Login"
+        Height="744" Width="800"
+        WindowStartupLocation="CenterScreen"
+        FontFamily="Segoe UI">
+
+    <Window.Resources>
+        <DropShadowEffect x:Key="DropShadow"
+                          BlurRadius="15"
+                          ShadowDepth="3"
+                          Opacity="0.3"/>
+
+        <!-- Gradient màu cam cho Logo -->
+        <LinearGradientBrush x:Key="LogoOrangeGradient" StartPoint="0,0" EndPoint="1,1">
+            <GradientStop Color="#FF8C00" Offset="0"/>
+            <GradientStop Color="#FFA07A" Offset="1"/>
+        </LinearGradientBrush>
+    </Window.Resources>
+
+    <!-- 🌈 Nền tổng thể sáng, cùng tone MainWindow -->
+    <Grid Height="728" VerticalAlignment="Top">
+        <Grid.Background>
+            <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                <GradientStop Color="#FFF8E1" Offset="0"/>
+                <!-- Màu kem nhạt -->
+                <GradientStop Color="#FFE0B2" Offset="1"/>
+                <!-- Màu cam nhạt hơn -->
+            </LinearGradientBrush>
+        </Grid.Background>
+
+        <!-- 🪞 Card chính -->
+        <Border Width="480" Height="453"
+                CornerRadius="20"
+                Background="White"
+                BorderBrush="#FFD07A"
+                BorderThickness="1"
+                Opacity="0.97"
+                Effect="{StaticResource DropShadow}"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Top" Margin="0,148,0,0">
+
+            <Grid Margin="40">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <!-- 🧊 Logo mới (hình bông hoa/ngôi sao 5 cánh đơn giản) -->
+                <Viewbox Grid.Row="0" Width="60" Height="60" HorizontalAlignment="Center" Margin="0,0,0,10">
+                    <Grid>
+                        <Path Data="M30,0 L38,20 L60,20 L42,32 L48,52 L30,40 L12,52 L18,32 L0,20 L22,20 Z" Fill="#FF6F00" Stretch="Fill"/>
+                        <Path Data="M30,5 L36,18 L55,18 L40,28 L45,47 L30,37 L15,47 L20,28 L5,18 L24,18 Z" Fill="#FFA000" Stretch="Fill" Margin="0,5,0,0"/>
+                    </Grid>
+                </Viewbox>
+
+                <!-- Tiêu đề -->
+                <TextBlock Grid.Row="1"
+                           Text="Welcome Back!"
+                           FontSize="26"
+                           FontWeight="Bold"
+                           Foreground="#FF6F00" 
+                           HorizontalAlignment="Center"
+                           Margin="0,0,0,20"/>
+
+                <!-- Form đăng nhập -->
+                <StackPanel Grid.Row="2">
+                    <TextBlock Text="Username" Foreground="#606060" FontWeight="SemiBold"/>
+                    <!-- Border bọc TextBox để áp dụng CornerRadius -->
+                    <Border CornerRadius="5" BorderBrush="#FFB74D" BorderThickness="1" Margin="0,4,0,15">
+                        <TextBox x:Name="txtUser"
+                                 Height="38"
+                                 FontSize="14"
+                                 Padding="10,0"
+                                 Background="White"
+                                 Foreground="#333"
+                                 VerticalContentAlignment="Center"
+                                 BorderThickness="0"/>
+                    </Border>
+
+                    <TextBlock Text="Password" Foreground="#606060" FontWeight="SemiBold"/>
+                    <!-- Border bọc PasswordBox để áp dụng CornerRadius -->
+                    <Border CornerRadius="5" BorderBrush="#FFB74D" BorderThickness="1" Margin="0,4,0,25">
+                        <PasswordBox x:Name="txtPass"
+                                     Height="38"
+                                     FontSize="14"
+                                     Padding="10,0"
+                                     Background="White"
+                                     Foreground="#333"
+                                     VerticalContentAlignment="Center"
+                                     BorderThickness="0"/>
+                    </Border>
+
+                    <!-- 🔘 Buttons -->
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                        <StackPanel.Resources>
+                            <Style TargetType="Button">
+                                <Setter Property="Template">
+                                    <Setter.Value>
+                                        <ControlTemplate TargetType="Button">
+                                            <Border Background="{TemplateBinding Background}"
+                                                    CornerRadius="20"
+                                                    Padding="5">
+                                                <ContentPresenter HorizontalAlignment="Center"
+                                                                  VerticalAlignment="Center"/>
+                                            </Border>
+                                        </ControlTemplate>
+                                    </Setter.Value>
+                                </Setter>
+                                <Setter Property="RenderTransformOrigin" Value="0.5,0.5"/>
+                                <Setter Property="RenderTransform">
+                                    <Setter.Value>
+                                        <ScaleTransform ScaleX="1.0" ScaleY="1.0"/>
+                                    </Setter.Value>
+                                </Setter>
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter Property="Opacity" Value="0.9"/>
+                                        <Setter Property="RenderTransform">
+                                            <Setter.Value>
+                                                <ScaleTransform ScaleX="1.05" ScaleY="1.05"/>
+                                            </Setter.Value>
+                                        </Setter>
+                                    </Trigger>
+                                </Style.Triggers>
+                            </Style>
+                        </StackPanel.Resources>
+
+                        <Button x:Name="btnLogin"
+                                Content="LOG IN"
+                                Width="140" Height="42"
+                                Background="#FF8C00" Foreground="White"
+                                FontWeight="Bold" Cursor="Hand"
+                                Margin="10,0" Click="btnLogin_Click"/>
+
+                        <Button x:Name="btnCancel"
+                                Content="CANCEL"
+                                Width="140" Height="42"
+                                Background="#689F38" Foreground="White"
+                                FontWeight="Bold" Cursor="Hand"
+                                Margin="10,0" Click="btnCancel_Click"/>
+                    </StackPanel>
+                </StackPanel>
+            </Grid>
+        </Border>
+    </Grid>
+</Window>

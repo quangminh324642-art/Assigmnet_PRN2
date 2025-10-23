@@ -1,0 +1,53 @@
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\Repositories\bin\Debug\net8.0\Repositories.deps.json
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\Repositories\bin\Debug\net8.0\Repositories.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\Repositories\bin\Debug\net8.0\Repositories.pdb
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\Repositories\bin\Debug\net8.0\BusinessObjects.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\Repositories\bin\Debug\net8.0\DataAccessObjects.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\Repositories\bin\Debug\net8.0\BusinessObjects.pdb
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\Repositories\bin\Debug\net8.0\DataAccessObjects.pdb
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.sourcelink.json
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.pdb
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\Repositories\obj\Debug\net8.0\ref\Repositories.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\Repositories\bin\Debug\net8.0\Repositories.deps.json
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\Repositories\bin\Debug\net8.0\Repositories.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\Repositories\bin\Debug\net8.0\Repositories.pdb
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\Repositories\bin\Debug\net8.0\BusinessObjects.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\Repositories\bin\Debug\net8.0\DataAccessObjects.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\Repositories\bin\Debug\net8.0\BusinessObjects.pdb
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\Repositories\bin\Debug\net8.0\DataAccessObjects.pdb
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.sourcelink.json
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.pdb
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\Repositories\obj\Debug\net8.0\ref\Repositories.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\Repositories\bin\Debug\net8.0\Repositories.deps.json
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\Repositories\bin\Debug\net8.0\Repositories.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\Repositories\bin\Debug\net8.0\Repositories.pdb
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\Repositories\bin\Debug\net8.0\BusinessObjects.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\Repositories\bin\Debug\net8.0\DataAccessObjects.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\Repositories\bin\Debug\net8.0\BusinessObjects.pdb
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\Repositories\bin\Debug\net8.0\DataAccessObjects.pdb
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.pdb
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\Repositories\obj\Debug\net8.0\ref\Repositories.dll

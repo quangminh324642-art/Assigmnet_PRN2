@@ -1,0 +1,360 @@
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\ProductManagementDemo.csproj.AssemblyReference.cache
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\LoginWindow.g.cs
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\ProductManagementDemo_MarkupCompile.cache
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\ProductManagementDemo_MarkupCompile.lref
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\ProductManagementDemo.exe
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\ProductManagementDemo.deps.json
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\ProductManagementDemo.runtimeconfig.json
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\ProductManagementDemo.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\ProductManagementDemo.pdb
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\BusinessObjects.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\DataAccessObjects.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Repositories.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Services.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\BusinessObjects.pdb
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Services.pdb
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\DataAccessObjects.pdb
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Repositories.pdb
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\LoginWindow.baml
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\ProductManagementDemo.g.resources
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\ProductManagementDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\ProductManagementDemo.AssemblyInfoInputs.cache
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\ProductManagementDemo.AssemblyInfo.cs
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\ProductManagementDemo.csproj.CoreCompileInputs.cache
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\ProductManagementDemo.sourcelink.json
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\ProductM.AF3B5C61.Up2Date
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\ProductManagementDemo.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\refint\ProductManagementDemo.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\ProductManagementDemo.pdb
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\ProductManagementDemo.genruntimeconfig.cache
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\ref\ProductManagementDemo.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\ProductManagementDemo.exe
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\ProductManagementDemo.deps.json
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\ProductManagementDemo.runtimeconfig.json
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\ProductManagementDemo.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\ProductManagementDemo.pdb
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\BusinessObjects.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\DataAccessObjects.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Repositories.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Services.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\BusinessObjects.pdb
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Services.pdb
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\DataAccessObjects.pdb
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Repositories.pdb
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\ProductManagementDemo.csproj.AssemblyReference.cache
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\LoginWindow.g.cs
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\ProductManagementDemo_MarkupCompile.cache
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\ProductManagementDemo_MarkupCompile.lref
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\LoginWindow.baml
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\ProductManagementDemo.g.resources
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\ProductManagementDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\ProductManagementDemo.AssemblyInfoInputs.cache
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\ProductManagementDemo.AssemblyInfo.cs
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\ProductManagementDemo.csproj.CoreCompileInputs.cache
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\ProductManagementDemo.sourcelink.json
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\ProductM.AF3B5C61.Up2Date
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\ProductManagementDemo.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\refint\ProductManagementDemo.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\ProductManagementDemo.pdb
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\ProductManagementDemo.genruntimeconfig.cache
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\ref\ProductManagementDemo.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session2-Language\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\appsettings.json
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\ProductManagementDemo.exe
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\appsettings.json
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\ProductManagementDemo.deps.json
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\ProductManagementDemo.runtimeconfig.json
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\ProductManagementDemo.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\ProductManagementDemo.pdb
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Humanizer.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\BusinessObjects.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\DataAccessObjects.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Repositories.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Services.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\BusinessObjects.pdb
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Services.pdb
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\DataAccessObjects.pdb
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\bin\Debug\net8.0-windows\Repositories.pdb
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\ProductManagementDemo.csproj.AssemblyReference.cache
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\LoginWindow.baml
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\LoginWindow.g.cs
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\App.g.cs
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\ProductManagementDemo_MarkupCompile.cache
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\ProductManagementDemo_MarkupCompile.lref
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\MainWindow.baml
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\ProductManagementDemo.g.resources
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\ProductManagementDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\ProductManagementDemo.AssemblyInfoInputs.cache
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\ProductManagementDemo.AssemblyInfo.cs
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\ProductManagementDemo.csproj.CoreCompileInputs.cache
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\ProductM.AF3B5C61.Up2Date
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\ProductManagementDemo.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\refint\ProductManagementDemo.dll
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\ProductManagementDemo.pdb
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\ProductManagementDemo.genruntimeconfig.cache
+D:\T_download-20250908T024420Z-1-001\T_download-20250908T024420Z-1-001\T_download\Lab\Assigment2\ProductManagementDemo\ProductManagementDemo\obj\Debug\net8.0-windows\ref\ProductManagementDemo.dll

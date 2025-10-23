@@ -1,0 +1,489 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E459B52-3008-434F-A104-9CD2F4FA12F4}|Services\\Services.csproj|c:\\users\\cong nhat\\onedrive\\desktop\\c#\\session3-oop\\productmanagementdemo\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E459B52-3008-434F-A104-9CD2F4FA12F4}|Services\\Services.csproj|solutionrelative:services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E459B52-3008-434F-A104-9CD2F4FA12F4}|Services\\Services.csproj|c:\\users\\cong nhat\\onedrive\\desktop\\c#\\session3-oop\\productmanagementdemo\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E459B52-3008-434F-A104-9CD2F4FA12F4}|Services\\Services.csproj|solutionrelative:services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B512DA-226C-460B-8844-54A218FFD739}|Repositories\\Repositories.csproj|c:\\users\\cong nhat\\onedrive\\desktop\\c#\\session3-oop\\productmanagementdemo\\repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B512DA-226C-460B-8844-54A218FFD739}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B512DA-226C-460B-8844-54A218FFD739}|Repositories\\Repositories.csproj|c:\\users\\cong nhat\\onedrive\\desktop\\c#\\session3-oop\\productmanagementdemo\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B512DA-226C-460B-8844-54A218FFD739}|Repositories\\Repositories.csproj|solutionrelative:repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B512DA-226C-460B-8844-54A218FFD739}|Repositories\\Repositories.csproj|c:\\users\\cong nhat\\onedrive\\desktop\\c#\\session3-oop\\productmanagementdemo\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B512DA-226C-460B-8844-54A218FFD739}|Repositories\\Repositories.csproj|solutionrelative:repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D639D18D-5AB5-4D7F-A1B8-DE5D86FA64DD}|DataAccessObjects\\DataAccessObjects.csproj|c:\\users\\cong nhat\\onedrive\\desktop\\c#\\session3-oop\\productmanagementdemo\\dataaccessobjects\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D639D18D-5AB5-4D7F-A1B8-DE5D86FA64DD}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D639D18D-5AB5-4D7F-A1B8-DE5D86FA64DD}|DataAccessObjects\\DataAccessObjects.csproj|c:\\users\\cong nhat\\onedrive\\desktop\\c#\\session3-oop\\productmanagementdemo\\dataaccessobjects\\mystorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D639D18D-5AB5-4D7F-A1B8-DE5D86FA64DD}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\mystorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D639D18D-5AB5-4D7F-A1B8-DE5D86FA64DD}|DataAccessObjects\\DataAccessObjects.csproj|c:\\users\\cong nhat\\onedrive\\desktop\\c#\\session3-oop\\productmanagementdemo\\dataaccessobjects\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D639D18D-5AB5-4D7F-A1B8-DE5D86FA64DD}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D639D18D-5AB5-4D7F-A1B8-DE5D86FA64DD}|DataAccessObjects\\DataAccessObjects.csproj|c:\\users\\cong nhat\\onedrive\\desktop\\c#\\session3-oop\\productmanagementdemo\\dataaccessobjects\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D639D18D-5AB5-4D7F-A1B8-DE5D86FA64DD}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A46A63-4F11-4844-8C0A-63555D7153E5}|BusinessObjects\\BusinessObjects.csproj|c:\\users\\cong nhat\\onedrive\\desktop\\c#\\session3-oop\\productmanagementdemo\\businessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A46A63-4F11-4844-8C0A-63555D7153E5}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A46A63-4F11-4844-8C0A-63555D7153E5}|BusinessObjects\\BusinessObjects.csproj|c:\\users\\cong nhat\\onedrive\\desktop\\c#\\session3-oop\\productmanagementdemo\\businessobjects\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A46A63-4F11-4844-8C0A-63555D7153E5}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A46A63-4F11-4844-8C0A-63555D7153E5}|BusinessObjects\\BusinessObjects.csproj|c:\\users\\cong nhat\\onedrive\\desktop\\c#\\session3-oop\\productmanagementdemo\\businessobjects\\accountmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A46A63-4F11-4844-8C0A-63555D7153E5}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\accountmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D639D18D-5AB5-4D7F-A1B8-DE5D86FA64DD}|DataAccessObjects\\DataAccessObjects.csproj|c:\\users\\cong nhat\\onedrive\\desktop\\c#\\session3-oop\\productmanagementdemo\\dataaccessobjects\\dataaccessobjects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D639D18D-5AB5-4D7F-A1B8-DE5D86FA64DD}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\dataaccessobjects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A46A63-4F11-4844-8C0A-63555D7153E5}|BusinessObjects\\BusinessObjects.csproj|c:\\users\\cong nhat\\onedrive\\desktop\\c#\\session3-oop\\productmanagementdemo\\businessobjects\\businessobjects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{07A46A63-4F11-4844-8C0A-63555D7153E5}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\businessobjects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EA81EC-7FDB-425D-872B-887172236292}|ProductManagementDemo\\ProductManagementDemo.csproj|c:\\users\\cong nhat\\onedrive\\desktop\\c#\\session3-oop\\productmanagementdemo\\productmanagementdemo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51EA81EC-7FDB-425D-872B-887172236292}|ProductManagementDemo\\ProductManagementDemo.csproj|solutionrelative:productmanagementdemo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EA81EC-7FDB-425D-872B-887172236292}|ProductManagementDemo\\ProductManagementDemo.csproj|c:\\users\\cong nhat\\onedrive\\desktop\\c#\\session3-oop\\productmanagementdemo\\productmanagementdemo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{51EA81EC-7FDB-425D-872B-887172236292}|ProductManagementDemo\\ProductManagementDemo.csproj|solutionrelative:productmanagementdemo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EA81EC-7FDB-425D-872B-887172236292}|ProductManagementDemo\\ProductManagementDemo.csproj|c:\\users\\cong nhat\\onedrive\\desktop\\c#\\session3-oop\\productmanagementdemo\\productmanagementdemo\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51EA81EC-7FDB-425D-872B-887172236292}|ProductManagementDemo\\ProductManagementDemo.csproj|solutionrelative:productmanagementdemo\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EA81EC-7FDB-425D-872B-887172236292}|ProductManagementDemo\\ProductManagementDemo.csproj|c:\\users\\cong nhat\\onedrive\\desktop\\c#\\session3-oop\\productmanagementdemo\\productmanagementdemo\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{51EA81EC-7FDB-425D-872B-887172236292}|ProductManagementDemo\\ProductManagementDemo.csproj|solutionrelative:productmanagementdemo\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EA81EC-7FDB-425D-872B-887172236292}|ProductManagementDemo\\ProductManagementDemo.csproj|c:\\users\\cong nhat\\onedrive\\desktop\\c#\\session3-oop\\productmanagementdemo\\productmanagementdemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{51EA81EC-7FDB-425D-872B-887172236292}|ProductManagementDemo\\ProductManagementDemo.csproj|solutionrelative:productmanagementdemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EA81EC-7FDB-425D-872B-887172236292}|ProductManagementDemo\\ProductManagementDemo.csproj|c:\\users\\cong nhat\\onedrive\\desktop\\c#\\session3-oop\\productmanagementdemo\\productmanagementdemo\\loginwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{51EA81EC-7FDB-425D-872B-887172236292}|ProductManagementDemo\\ProductManagementDemo.csproj|solutionrelative:productmanagementdemo\\loginwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EA81EC-7FDB-425D-872B-887172236292}|ProductManagementDemo\\ProductManagementDemo.csproj|c:\\users\\cong nhat\\onedrive\\desktop\\c#\\session3-oop\\productmanagementdemo\\productmanagementdemo\\productmanagementdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{51EA81EC-7FDB-425D-872B-887172236292}|ProductManagementDemo\\ProductManagementDemo.csproj|solutionrelative:productmanagementdemo\\productmanagementdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E459B52-3008-434F-A104-9CD2F4FA12F4}|Services\\Services.csproj|c:\\users\\cong nhat\\onedrive\\desktop\\c#\\session3-oop\\productmanagementdemo\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E459B52-3008-434F-A104-9CD2F4FA12F4}|Services\\Services.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E459B52-3008-434F-A104-9CD2F4FA12F4}|Services\\Services.csproj|c:\\users\\cong nhat\\onedrive\\desktop\\c#\\session3-oop\\productmanagementdemo\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E459B52-3008-434F-A104-9CD2F4FA12F4}|Services\\Services.csproj|solutionrelative:services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E459B52-3008-434F-A104-9CD2F4FA12F4}|Services\\Services.csproj|c:\\users\\cong nhat\\onedrive\\desktop\\c#\\session3-oop\\productmanagementdemo\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E459B52-3008-434F-A104-9CD2F4FA12F4}|Services\\Services.csproj|solutionrelative:services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E459B52-3008-434F-A104-9CD2F4FA12F4}|Services\\Services.csproj|c:\\users\\cong nhat\\onedrive\\desktop\\c#\\session3-oop\\productmanagementdemo\\services\\icatergoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E459B52-3008-434F-A104-9CD2F4FA12F4}|Services\\Services.csproj|solutionrelative:services\\icatergoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B512DA-226C-460B-8844-54A218FFD739}|Repositories\\Repositories.csproj|c:\\users\\cong nhat\\onedrive\\desktop\\c#\\session3-oop\\productmanagementdemo\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B512DA-226C-460B-8844-54A218FFD739}|Repositories\\Repositories.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B512DA-226C-460B-8844-54A218FFD739}|Repositories\\Repositories.csproj|c:\\users\\cong nhat\\onedrive\\desktop\\c#\\session3-oop\\productmanagementdemo\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B512DA-226C-460B-8844-54A218FFD739}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B512DA-226C-460B-8844-54A218FFD739}|Repositories\\Repositories.csproj|c:\\users\\cong nhat\\onedrive\\desktop\\c#\\session3-oop\\productmanagementdemo\\repositories\\icatergoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B512DA-226C-460B-8844-54A218FFD739}|Repositories\\Repositories.csproj|solutionrelative:repositories\\icatergoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyStoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\DataAccessObjects\\MyStoreContext.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\MyStoreContext.cs",
+              "ToolTip": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\DataAccessObjects\\MyStoreContext.cs",
+              "RelativeToolTip": "DataAccessObjects\\MyStoreContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T01:04:55.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductDAO.cs",
+              "DocumentMoniker": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\DataAccessObjects\\ProductDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\ProductDAO.cs",
+              "ToolTip": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\DataAccessObjects\\ProductDAO.cs",
+              "RelativeToolTip": "DataAccessObjects\\ProductDAO.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwEYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T17:44:32.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\AccountRepository.cs",
+              "ToolTip": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "Repositories\\AccountRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T18:16:10.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T17:58:07.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\Repositories\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IAccountRepository.cs",
+              "ToolTip": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\Repositories\\IAccountRepository.cs",
+              "RelativeToolTip": "Repositories\\IAccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T17:57:11.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "Services\\AccountService.cs",
+              "ToolTip": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\Services\\AccountService.cs",
+              "RelativeToolTip": "Services\\AccountService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T18:48:36.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Services\\CategoryService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T18:24:57.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryDAO.cs",
+              "DocumentMoniker": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\DataAccessObjects\\CategoryDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\CategoryDAO.cs",
+              "ToolTip": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\DataAccessObjects\\CategoryDAO.cs",
+              "RelativeToolTip": "DataAccessObjects\\CategoryDAO.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T17:41:16.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountDAO.cs",
+              "DocumentMoniker": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\DataAccessObjects\\AccountDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\AccountDAO.cs",
+              "ToolTip": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\DataAccessObjects\\AccountDAO.cs",
+              "RelativeToolTip": "DataAccessObjects\\AccountDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T17:50:30.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\BusinessObjects\\Product.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Product.cs",
+              "ToolTip": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\BusinessObjects\\Product.cs",
+              "RelativeToolTip": "BusinessObjects\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T17:19:39.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\BusinessObjects\\Category.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Category.cs",
+              "ToolTip": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\BusinessObjects\\Category.cs",
+              "RelativeToolTip": "BusinessObjects\\Category.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T17:18:24.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountMember.cs",
+              "DocumentMoniker": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\BusinessObjects\\AccountMember.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\AccountMember.cs",
+              "ToolTip": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\BusinessObjects\\AccountMember.cs",
+              "RelativeToolTip": "BusinessObjects\\AccountMember.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T17:37:35.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DataAccessObjects.csproj",
+              "DocumentMoniker": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\DataAccessObjects\\DataAccessObjects.csproj",
+              "RelativeDocumentMoniker": "DataAccessObjects\\DataAccessObjects.csproj",
+              "ToolTip": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\DataAccessObjects\\DataAccessObjects.csproj",
+              "RelativeToolTip": "DataAccessObjects\\DataAccessObjects.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-08T19:17:13.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BusinessObjects.csproj",
+              "DocumentMoniker": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj",
+              "RelativeDocumentMoniker": "BusinessObjects\\BusinessObjects.csproj",
+              "ToolTip": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj",
+              "RelativeToolTip": "BusinessObjects\\BusinessObjects.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-08T19:17:14.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductManagementDemo.csproj",
+              "DocumentMoniker": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo.csproj",
+              "RelativeDocumentMoniker": "ProductManagementDemo\\ProductManagementDemo.csproj",
+              "ToolTip": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo.csproj",
+              "RelativeToolTip": "ProductManagementDemo\\ProductManagementDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-08T18:51:23.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\ProductManagementDemo\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ProductManagementDemo\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\ProductManagementDemo\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ProductManagementDemo\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T17:01:52.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\ProductManagementDemo\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ProductManagementDemo\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\ProductManagementDemo\\MainWindow.xaml",
+              "RelativeToolTip": "ProductManagementDemo\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-08T17:01:53.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\ProductManagementDemo\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "ProductManagementDemo\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\ProductManagementDemo\\LoginWindow.xaml",
+              "RelativeToolTip": "ProductManagementDemo\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-08T18:51:45.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\ProductManagementDemo\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ProductManagementDemo\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\ProductManagementDemo\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "ProductManagementDemo\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBZwDIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T18:53:05.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\ProductManagementDemo\\App.xaml",
+              "RelativeDocumentMoniker": "ProductManagementDemo\\App.xaml",
+              "ToolTip": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\ProductManagementDemo\\App.xaml",
+              "RelativeToolTip": "ProductManagementDemo\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-08T18:57:49.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\ProductManagementDemo\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ProductManagementDemo\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\ProductManagementDemo\\App.xaml.cs",
+              "RelativeToolTip": "ProductManagementDemo\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T19:23:21.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAjwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T18:47:44.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\Services\\IAccountService.cs",
+              "RelativeDocumentMoniker": "Services\\IAccountService.cs",
+              "ToolTip": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\Services\\IAccountService.cs",
+              "RelativeToolTip": "Services\\IAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T18:24:13.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\Services\\IProductService.cs",
+              "RelativeToolTip": "Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T18:22:33.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ICatergoryService.cs",
+              "DocumentMoniker": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\Services\\ICatergoryService.cs",
+              "RelativeDocumentMoniker": "Services\\ICatergoryService.cs",
+              "ToolTip": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\Services\\ICatergoryService.cs",
+              "RelativeToolTip": "Services\\ICatergoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T18:21:48.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T18:03:59.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T17:55:47.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ICatergoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\Repositories\\ICatergoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICatergoryRepository.cs",
+              "ToolTip": "C:\\Users\\CONG NHAT\\OneDrive\\Desktop\\C#\\Session3-OOP\\ProductManagementDemo\\Repositories\\ICatergoryRepository.cs",
+              "RelativeToolTip": "Repositories\\ICatergoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T17:54:36.954Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
